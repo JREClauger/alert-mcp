@@ -1,0 +1,14 @@
+{
+  "progid": "Alert.OPCServer",
+  "process_image": "Alert.exe",
+  "station": "",
+  "dossier_alert": "C:\\ProgramData\\Micromedia\\Alert",
+  "masquer_numeros": true,
+  "taille_lot": 200,
+
+  "ecriture_active": false,
+  "items_ecriture": {
+    "Exemple: Tag.PCVue_.Zone.Defaut.AlarmState.AlarmAck": { "valeurs": [true] }
+  },
+  "journal_ecriture": "journal_ecritures.jsonl"
+}
